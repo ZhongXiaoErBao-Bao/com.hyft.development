@@ -1,0 +1,12 @@
+{
+  "name": "com.hyft.development",
+  "version": "1.0.1",
+  "displayName": "hyft.development.notes",
+  "documentationUrl": "",
+  "samples": [],
+  "author": {
+    "name": "ZhongXiaoErBao",
+    "email": "zhongxiaoerbao@outlook.com"
+  },
+  "dependencies": {}
+}
